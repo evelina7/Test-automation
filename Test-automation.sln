@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-automation", "Test-automation.csproj", "{76FC5821-8FB5-4061-BA93-9B1CF918AF7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Tests", "Unit Tests", "{A3170AB8-E1DE-4D89-BFA4-A0211F018C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Unit_test", "01 Unit_test\01 Unit_test.csproj", "{091CF5ED-A19C-4CE5-B3EE-82008EE243CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FC5821-8FB5-4061-BA93-9B1CF918AF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FC5821-8FB5-4061-BA93-9B1CF918AF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FC5821-8FB5-4061-BA93-9B1CF918AF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FC5821-8FB5-4061-BA93-9B1CF918AF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091CF5ED-A19C-4CE5-B3EE-82008EE243CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091CF5ED-A19C-4CE5-B3EE-82008EE243CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091CF5ED-A19C-4CE5-B3EE-82008EE243CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091CF5ED-A19C-4CE5-B3EE-82008EE243CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{091CF5ED-A19C-4CE5-B3EE-82008EE243CE} = {A3170AB8-E1DE-4D89-BFA4-A0211F018C76}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77D90E69-71AA-4129-84B4-94F603AD35D3}
+	EndGlobalSection
+EndGlobal
