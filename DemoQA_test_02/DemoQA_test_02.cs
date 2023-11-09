@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace DemoQA_test_02
 {
-    public class Class1
+    public class DemoQA_test_02
     {
         //2-ame teste įvesti neteisingo formato email ir patikrinti, kad email laukelis tapo apvestas raudonai.
 
