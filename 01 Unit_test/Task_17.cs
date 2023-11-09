@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace _01_Unit_test
 {
-    public class Class1
+    public class Task_17
     {
         [Test]
         public void Test1()   //Testas “žalias” jeigu 995 dalijasi iš 3(be liekanos)
